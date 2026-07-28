@@ -1,0 +1,4 @@
+interface:
+  display_name: "プラン理解クイズ"
+  short_description: "AIの実装プランをクイズに変え、技術判断の理解を確かめる"
+  default_prompt: "$quiz-the-plan を使って、この実装プランの重要な判断を一問ずつクイズにしてください。"
