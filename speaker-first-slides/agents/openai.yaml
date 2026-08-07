@@ -1,0 +1,4 @@
+interface:
+  display_name: "Speaker-First Slides"
+  short_description: "登壇者の話を主役にする、簡潔で見やすい発表スライドを設計"
+  default_prompt: "$speaker-first-slides を使って、この内容を登壇者の話が主役になる発表スライドへ構成してください。"
